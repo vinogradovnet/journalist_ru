@@ -1,11 +1,5 @@
 # 30. А где можно посмотреть примеры?
 
-Все тексты и примеры файлов можно найти по адресу: [https://j-ru.experts-edu.org/prilozheniya.html](https://j-ru.experts-edu.org/prilozheniya.html)
-
-![](https://chart.googleapis.com/chart?cht=qr\&chl=https%3A%2F%2Fj-ru.experts-edu.org%2Fprilozheniya.html\&chs=180x180\&choe=UTF-8\&chld=L|2)
-
-
-
 [Логотипы](logotipy.md)
 
 [Рекламный плакат](reklamnyi-plakat.md)
