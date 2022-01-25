@@ -4,6 +4,10 @@
 
 ![](https://chart.googleapis.com/chart?cht=qr\&chl=https%3A%2F%2Fj-ru.experts-edu.org%2Fprilozheniya.html\&chs=180x180\&choe=UTF-8\&chld=L|2)
 
+
+
+[Логотипы](logotipy.md)
+
 [Рекламный плакат](reklamnyi-plakat.md)
 
 [Программа игры](programma-igry.md)
